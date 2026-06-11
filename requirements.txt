@@ -1,0 +1,20 @@
+# Foundational & Data
+requests==2.31.0
+pandas==2.2.1
+numpy==1.26.4
+python-dotenv==1.0.1
+
+# Database & Vectors
+chromadb==0.4.24
+
+# Quantitative & ML
+scikit-learn==1.4.1.post1
+xgboost==2.0.3
+
+# Agentic Framework & LLM
+langchain==0.1.11
+langgraph==0.0.26
+langchain-openai==0.0.8
+
+# Frontend Dashboard
+streamlit==1.32.0
